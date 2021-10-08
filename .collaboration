@@ -149,5 +149,25 @@
   {
     "ModuleName": "f136f31a-5285-4164-b8e6-6a822fdf27bd",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "fsk_t_進行管理明細_登録・更新の共通ページ",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\kenta.sasaki",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-10-08T14:39:38.2909146+09:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "fsk_t_進行管理明細_一覧ページ",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\kenta.sasaki",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-10-08T14:39:38.2909146+09:00",
+    "ModuleType": 1
   }
 ]
