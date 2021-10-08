@@ -122,7 +122,7 @@
           <ColumnType>System.String</ColumnType>
           <DatabaseColumnType>text</DatabaseColumnType>
           <DefaultValue class="System.DBNull" assembly="mscorlib" />
-          <MaxLength>65535</MaxLength>
+          <MaxLength>500</MaxLength>
           <Name>被改正法令名</Name>
         </Item>
         <Item class="Forguncy.Model.Tables.BindingColumn" assembly="Forguncy">
@@ -192,14 +192,14 @@
           <ColumnType>System.String</ColumnType>
           <DatabaseColumnType>text</DatabaseColumnType>
           <DefaultValue class="System.DBNull" assembly="mscorlib" />
-          <MaxLength>65535</MaxLength>
+          <MaxLength>500</MaxLength>
           <Name>改正例規名</Name>
         </Item>
         <Item class="Forguncy.Model.Tables.BindingColumn" assembly="Forguncy">
           <ColumnType>System.String</ColumnType>
           <DatabaseColumnType>text</DatabaseColumnType>
           <DefaultValue class="System.DBNull" assembly="mscorlib" />
-          <MaxLength>65535</MaxLength>
+          <MaxLength>500</MaxLength>
           <Name>改正例規名かな</Name>
         </Item>
         <Item class="Forguncy.Model.Tables.BindingColumn" assembly="Forguncy">
@@ -838,6 +838,7 @@
         <ESourceConnectString>Fp7+1zSkwQn5Wxez/+03TXq0aAlNnr11texpk73pbkmuLyF/0u5LBYIG9q409xJEAIShgvVSerR7pEJdxZkZ9w==</ESourceConnectString>
         <SourceConnectString>Server=jp-tool-yasuko8;User Id=sample_user;Database=nhk</SourceConnectString>
         <SourceTableName>fsk_t_進行管理明細</SourceTableName>
+        <SourceTableSchema></SourceTableSchema>
       </ExternalDatabaseInfo>
       <Name>fsk_t_進行管理明細</Name>
       <PrimaryKey>
