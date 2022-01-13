@@ -6,4 +6,9 @@
     <EConnectionString>k2qYWuVW1TcOyluraheMWyjwGfrYr9XyMkr6qVXGE3ZXKstspqJca6kKXfwkwS8Exx7J7vw/6gNDOhIii/USZg==</EConnectionString>
     <ID>143309bd-d5cd-44b3-89a8-8e1dbaa46db3</ID>
   </Item>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="Forguncy">
+    <ConnectionString>Data Source=localhost;Initial Catalog=aaa;Integrated Security=True;Persist Security Info=True</ConnectionString>
+    <DataBaseType>SqlServer</DataBaseType>
+    <ID>12e3ba20-7f5e-4fe6-b071-86e6fad6316b</ID>
+  </Item>
 </DataConnectionSet>
